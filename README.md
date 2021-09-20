@@ -1,0 +1,1 @@
+Patron de Diseño Adapter
